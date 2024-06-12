@@ -1,7 +1,7 @@
 # Description
 This is a simple full stack web application for employee management using Spring Boot and ReactJS (with Typescript). It does not include complex logic (such as check email format validation, handling null data, etc.).
 
-Inspired by Daily Code Buffer Daily Code Buffer: [Daily Code Buffer YouTube Channel](https://www.youtube.com/@DailyCodeBuffer)
+Inspired by Daily Code Buffer: [Daily Code Buffer YouTube Channel](https://www.youtube.com/@DailyCodeBuffer)
 
 # Requirement
 * MySQL
