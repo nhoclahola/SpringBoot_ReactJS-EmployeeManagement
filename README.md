@@ -10,7 +10,7 @@ Inspired by Daily Code Buffer: [Daily Code Buffer YouTube Channel](https://www.y
 
 # How to install
 ## MySQL
-Run **employee_system.sql** file in your MySQL instance to create the **employee_system** database with the **employees table**.
+Run **employee_system.sql** file in your MySQL instance to create the **employee_system** database with the **employees** table.
 
 ## NodeJS
 Inside the **employee-system-ui** folder, open your terminal and run `npm install` to install all dependencies for ReactJS UI.
