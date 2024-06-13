@@ -16,7 +16,8 @@ Run **employee_system.sql** file in your MySQL instance to create the **employee
 Inside the **employee-system-ui** folder, open your terminal and run `npm install` to install all dependencies for ReactJS UI.
 
 ## Spring Boot
-To use the command line, navigate to the **employee-system-api**, run `gradle --refresh-dependencies clean build` to install all dependencies for the Spring Boot API
+To use the command line, navigate to the **employee-system-api**, run `gradle --refresh-dependencies clean build` to install all dependencies for the Spring Boot API.
+
 Alternatively, you can open **employee-system-api** as a project in IDE (such as Intellij, Eclipse, etc.) and build dependencies there.
 
 # How to start
